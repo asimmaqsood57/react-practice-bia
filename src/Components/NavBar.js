@@ -40,7 +40,7 @@ const NavBar = (props) => {
                 data-bs-toggle="dropdown"
                 aria-expanded="false"
               >
-                Dropdown
+                Github
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <li>
@@ -58,7 +58,7 @@ const NavBar = (props) => {
                 </li>
                 <li>
                   <a class="dropdown-item" href="#">
-                    Something else here
+                    Air univeristy
                   </a>
                 </li>
               </ul>
